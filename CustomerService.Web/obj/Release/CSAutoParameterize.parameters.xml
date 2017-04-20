@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CustomerServiceDb-Web.config Connection String" description="CustomerServiceDb Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:testsqlserver-2017.database.windows.net,1433;Initial Catalog=CustomerServiceDB;Persist Security Info=False;User ID=jervie;Password=Hunter101;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jvitriolo\\Source\\Repos\\VSOnline\ And\ Azure\\CustomerService\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CustomerServiceDb']/@connectionString" />
+  </parameter>
+  <parameter name="CustomerServiceDb_DatabasePublish-Web.config Connection String" description="CustomerServiceDb_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="CustomerServiceDb_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jvitriolo\\Source\\Repos\\VSOnline\ And\ Azure\\CustomerService\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CustomerServiceDb_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

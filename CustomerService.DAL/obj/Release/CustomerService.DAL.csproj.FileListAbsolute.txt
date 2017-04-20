@@ -1,0 +1,11 @@
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\CustomerService.DAL.dll.config
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\CustomerService.DAL.dll
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\CustomerService.DAL.pdb
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\EntityFramework.dll
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\EntityFramework.xml
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\obj\Release\CustomerService.DAL.Migrations.InitialCreate.resources
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\obj\Release\CustomerService.DAL.csproj.GenerateResource.Cache
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\obj\Release\CustomerService.DAL.dll
+C:\Users\jvitriolo\Source\Repos\VSOnline And Azure\CustomerService.DAL\obj\Release\CustomerService.DAL.pdb
